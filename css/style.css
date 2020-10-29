@@ -23,5 +23,15 @@ h3 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 19px;
+}
+
+ul {
+  font-size: 19px;
+}
+ol {
+    font-size: 19px;
+}
+li {
+    font-size: 19px;
 }
